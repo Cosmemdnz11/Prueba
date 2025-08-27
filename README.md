@@ -10,17 +10,15 @@ Aquí podrás ver cómo abordo cada reto, documentando el proceso paso a paso, s
 ### 1️⃣ Basic Pentesting
 - **Descripción:** Laboratorio de introducción a técnicas de pentesting en Linux.
 - **Contenido:** Escaneo de puertos, enumeración, explotación, escalada de privilegios y aprendizaje.
-- [Acceder al laboratorio](./basic-pentesting/README.md)
 
 ### 2️⃣ Blue
 - **Descripción:** Laboratorio orientado a la explotación de servicios web y fuerza bruta.
 - **Contenido:** Reconocimiento, explotación de SSH, análisis de directorios web.
-- [Acceder al laboratorio](./blue/README.md)
 
 ### 3️⃣ RootMe
 - **Descripción:** Laboratorio avanzado de escalada de privilegios y seguridad del sistema.
 - **Contenido:** Enumeración completa, explotación de vulnerabilidades y obtención de acceso root.
-- [Acceder al laboratorio](./rootme/README.md)
+
 
 ---
 
